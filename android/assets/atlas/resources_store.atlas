@@ -1,0 +1,111 @@
+
+resources_store.png
+size: 1024,512
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+bird
+  rotate: false
+  xy: 398, 104
+  size: 92, 64
+  orig: 92, 64
+  offset: 0, 0
+  index: -1
+bird_band
+  rotate: false
+  xy: 606, 259
+  size: 92, 64
+  orig: 92, 64
+  offset: 0, 0
+  index: -1
+bird_cov
+  rotate: false
+  xy: 606, 391
+  size: 92, 81
+  orig: 92, 81
+  offset: 0, 0
+  index: -1
+bird_dek
+  rotate: false
+  xy: 700, 408
+  size: 92, 64
+  orig: 92, 64
+  offset: 0, 0
+  index: -1
+bird_morg
+  rotate: false
+  xy: 606, 325
+  size: 92, 64
+  orig: 92, 64
+  offset: 0, 0
+  index: -1
+bird_saints
+  rotate: false
+  xy: 304, 38
+  size: 92, 64
+  orig: 92, 64
+  offset: 0, 0
+  index: -1
+bird_sc
+  rotate: false
+  xy: 304, 104
+  size: 92, 64
+  orig: 92, 64
+  offset: 0, 0
+  index: -1
+btnBuy
+  rotate: false
+  xy: 2, 18
+  size: 300, 150
+  orig: 300, 150
+  offset: 0, 0
+  index: 100
+btnBuy_down
+  rotate: false
+  xy: 304, 322
+  size: 300, 150
+  orig: 300, 150
+  offset: 0, 0
+  index: 100
+btnSelectFalse
+  rotate: false
+  xy: 304, 170
+  size: 300, 150
+  orig: 300, 150
+  offset: 0, 0
+  index: 100
+btnSelectFalse_down
+  rotate: false
+  xy: 2, 322
+  size: 300, 150
+  orig: 300, 150
+  offset: 0, 0
+  index: 100
+btnSelectTrue
+  rotate: false
+  xy: 2, 170
+  size: 300, 150
+  orig: 300, 150
+  offset: 0, 0
+  index: 100
+coin_bronza
+  rotate: false
+  xy: 794, 458
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+coin_gold
+  rotate: false
+  xy: 700, 392
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+coin_serebro
+  rotate: false
+  xy: 2, 2
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1

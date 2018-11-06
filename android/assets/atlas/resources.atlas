@@ -1,0 +1,27 @@
+
+resources.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bottomtube
+  rotate: false
+  xy: 408, 32
+  size: 52, 320
+  orig: 52, 320
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 2, 2
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+toptube
+  rotate: false
+  xy: 354, 32
+  size: 52, 320
+  orig: 52, 320
+  offset: 0, 0
+  index: -1

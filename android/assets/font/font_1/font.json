@@ -1,0 +1,116 @@
+{
+    com.badlogic.gdx.graphics.g2d.BitmapFont: {
+            default -font: {
+                file: font.fnt
+            }
+        },
+
+        com.badlogic.gdx.graphics.Color: {
+            green: {
+                a: 1,
+                b: 0,
+                g: 1,
+                r: 0
+            },
+            default: {
+                a: 1,
+                b: 1,
+                g: 1,
+                r: 1
+            },
+            gray: {
+              a: 1,
+              b: 0.7,
+              g: 0.7,
+              r: 0.7
+            },
+            blue: {
+                a: 1,
+                b: 1,
+                g: 0,
+                r: 0
+            },
+            whiteBlue: {
+                a: 1,
+                b: 1,
+                g: 0.4,
+                r: 0.2
+            },
+            yellow: {
+                a: 1,
+                b: 0,
+                g: 0.9,
+                r: 1
+            },
+            red: {
+                a: 1,
+                b: 0,
+                g: 0,
+                r: 1
+            },
+            orange: {
+                a: 1,
+                b: 0,
+                g: 0.6,
+                r: 1
+            }
+        },
+
+        com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
+            green: {
+                font: default -font,
+                fontColor: green
+            },
+            default: {
+                font: default -font,
+                fontColor: default
+            },
+            gray: {
+              font: default -font,
+              fontColor: gray
+            },
+            blue: {
+                font: default -font,
+                fontColor: blue
+            },
+            whiteBlue: {
+                font: default -font,
+                fontColor: whiteBlue
+            },
+            yellow: {
+                font: default -font,
+                fontColor: yellow
+            },
+            red: {
+                font: default -font,
+                fontColor: red
+            },
+            orange: {
+                font: default -font,
+                fontColor: orange
+            }
+        },
+
+        com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
+            default: {
+                font: default -font,
+                fontColor: blue,
+            },
+            toggle: {
+                font: default -font,
+                fontColor: green,
+                downFontColor: red
+            }
+        },
+
+        com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle: {
+            default: {
+                titleFont: default -font,
+                titleFontColor: orange
+            },
+            dialog: {
+                titleFont: default -font,
+                titleFontColor: green
+            }
+        }
+}
